@@ -2,7 +2,7 @@
 
 ## Round 1
 
-[Round 1](rounds/r1-log.md)
+[Round 1 Log](rounds/r1-log.md)
 
 ## Round 2
 
