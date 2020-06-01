@@ -5,12 +5,10 @@ Started on May, 31st, 2020.
 
 ## Log
 
-_I will update this example once I start the challenge._
+### Day 1: May 31, 2020
 
-### Day 0: February 30, 2016 (Example)
+**Today's Progress**: Started on coding the first card using HTML and CSS only.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: It feels good when you complete a task. I felt great about being able to manipulate CSS on my own. It is a less comfortable experience than a typical follow-along hand-holding tutorial, though.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 1](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/155bcd625fc0b4f4b8e6588e0661ac8cce74d3f7)
