@@ -34,3 +34,13 @@ Started on May, 31st, 2020.
 **Thoughts**: The `box-sizing` property in CSS is well known and I have seen it a lot previously. Yet, I missed setting it to the value `border-box` for all elements to avoid increasing width when adding padding. This caused weird behavior since I was using the same width and height as the example I was copying but they didn't look the same. That was because of the extra padding :smile:.
 
 **Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 3](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/24d45f68cc47fded7bbf260cc7b86b699590a94b)
+
+---
+
+### Day 4: June 3, 2020
+
+**Today's Progress**: Started with challenge 2 of the 30DayOfCSS challenge.
+
+**Thoughts**: Although this challenge is again about designing cards, it contains a challenging concern for me which is positioning images at the topmost or bottomost edge. I am struggling to get images not exceed their specified height while making sure everything is responsive. Guess I will have to work on that tomorrow. 
+
+**Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 4](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/020ec8dfdc29bb7b9379b8bf26754f12b87522cc)
