@@ -2,7 +2,7 @@
 
 These are the topics that I plan to cover during this round. I will keep adding to or changing them as I progress in the challenge.
 
-- [ ] [Basic Cards](https://uidesigndaily.com/posts/sketch-cards-card-social-media-profile-day-1052).
+- [X] [Basic Cards](https://uidesigndaily.com/posts/sketch-cards-card-social-media-profile-day-1052).
 - [ ] [Project Card](https://uidesigndaily.com/posts/sketch-project-card-day-1032).
 - [ ] [Blog Cards](https://uidesigndaily.com/posts/sketch-blog-cards-post-article-thumbnail-day-998).
 - [ ] [Goals Card](https://uidesigndaily.com/posts/studio-goals-card-analytics-stats-statistics-progress-day-1090).
