@@ -24,3 +24,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I think I should'nt have used CSS grid for positioning elements inside the card. I felt like I complicated things unnecessarily just because I was very obssesed with making the card responsive.
 
 **Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 2](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/ef04e59b9542e7a7bdeb467924e1b7e1bcca97f1)
+
+---
+
+### Day 3: June 2, 2020
+
+**Today's Progress**: Finished challenge 1 (three cards) of the 30DaysOfCSS challenge.
+
+**Thoughts**: The `box-sizing` property in CSS is well known and I have seen it a lot previously. Yet, I missed setting it to the value `border-box` for all elements to avoid increasing width when adding padding. This caused weird behavior since I was using the same width and height as the example I was copying but they didn't look the same. That was because of the extra padding :smile:.
+
+**Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 3](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/24d45f68cc47fded7bbf260cc7b86b699590a94b)
