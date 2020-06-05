@@ -53,3 +53,12 @@ Started on May, 31st, 2020.
 **Thoughts**: I found out how `background-image` can solve the problem of images exceeding the height specified for them. It comes with another problem which is the image gets cropped and therefore it does not look good.
 
 **Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 5](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/281dd77890d5eec618deed46f42447f79627928c)
+
+---
+
+### Day 6 - June 5, 2020
+
+**Today's Progress**: Completed the second card of challenge 2.
+**Thoughts**: I used `background-position` to get the image to not get cropped but then I increased the height of the card to accomodate the image's height. I want to start soon on developing complete pages. I think that would be better.
+
+**Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 6](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/20f8835f349d454a739f6eb78ba485ce1ecc7ed6)
