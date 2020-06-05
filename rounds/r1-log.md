@@ -41,6 +41,15 @@ Started on May, 31st, 2020.
 
 **Today's Progress**: Started with challenge 2 of the 30DayOfCSS challenge.
 
-**Thoughts**: Although this challenge is again about designing cards, it contains a challenging concern for me which is positioning images at the topmost or bottomost edge. I am struggling to get images not exceed their specified height while making sure everything is responsive. Guess I will have to work on that tomorrow. 
+**Thoughts**: Although this challenge is again about designing cards, it contains a challenging concern for me which is positioning images at the topmost or bottomost edge. I am struggling to get images not exceed their specified height while making sure everything is responsive. Guess I will have to work on that tomorrow.
 
 **Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 4](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/020ec8dfdc29bb7b9379b8bf26754f12b87522cc)
+
+---
+
+### Day 5 - June 4, 2020
+
+**Today's Progress**: Continued coding the card's image of challenge 2.
+**Thoughts**: I found out how `background-image` can solve the problem of images exceeding the height specified for them. It comes with another problem which is the image gets cropped and therefore it does not look good.
+
+**Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 5](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/281dd77890d5eec618deed46f42447f79627928c)
