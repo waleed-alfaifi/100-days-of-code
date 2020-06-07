@@ -62,3 +62,12 @@ Started on May, 31st, 2020.
 **Thoughts**: I used `background-position` to get the image to not get cropped but then I increased the height of the card to accomodate the image's height. I want to start soon on developing complete pages. I think that would be better.
 
 **Link(s) to work**: [30DayOfCSS - Challenge 1 - Day 6](https://github.com/waleed-alfaifi/30DaysOfCSS/commit/20f8835f349d454a739f6eb78ba485ce1ecc7ed6)
+
+---
+
+### Day 7 - June 7, 2020
+
+**Today's Progress**: Started [this newbie challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) from frontendmentors website.
+**Thoughts**: I missed yesterday but that was because I had just arrived from travel and I was busy arranging things. For today, I started doing one of the challenges of frontendmentors and hopefully I can finish it in less than five days.
+
+**Link(s) to work**: [Huddle landing page with alternating feature blocks - My Solution](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
