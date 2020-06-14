@@ -70,4 +70,4 @@ Started on May, 31st, 2020.
 **Today's Progress**: Started [this newbie challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) from frontendmentors website.
 **Thoughts**: I missed yesterday but that was because I had just arrived from travel and I was busy arranging things. For today, I started doing one of the challenges of frontendmentors and hopefully I can finish it in less than five days.
 
-**Link(s) to work**: [Huddle landing page with alternating feature blocks - My Solution](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
+**Link(s) to work**: [Huddle landing page with alternating feature blocks - My Solution](https://github.com/waleed-alfaifi/huddle-landing-page-newbie)
