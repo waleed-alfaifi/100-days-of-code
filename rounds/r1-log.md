@@ -98,3 +98,12 @@ Started on May, 31st, 2020.
 **Thoughts**: Maybe starting with the mobile version wasn't the best decision. I had to make some workarounds to get the page looking like the design. I think it was too easy to make it for mobile first.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 11 - June 13, 2020
+
+**Today's Progress**: Still working on making the huddle landing page responsive for larger screens.
+**Thoughts**: I am really struggling to align the footer's items like the design. Hopefully, I will be able to finish this challenge tomorrow.
+
+**Link(s) to work**: _No Link_
