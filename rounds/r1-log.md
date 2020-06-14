@@ -89,3 +89,12 @@ Started on May, 31st, 2020.
 **Thoughts**: I almost finished the mobile version today. I will start making it responsive for larger screens tomorrow.
 
 **Link(s) to work**: [Huddle landing page with alternating feature blocks - Almost complete mobile version](https://github.com/waleed-alfaifi/huddle-landing-page-newbie/commit/4ccae029cff94cb7e54b77a0c7d63a1fa2785fef)
+
+---
+
+### Day 10 - June 12, 2020
+
+**Today's Progress**: Started making the huddle landing page responsive for larger screens.
+**Thoughts**: Maybe starting with the mobile version wasn't the best decision. I had to make some workarounds to get the page looking like the design. I think it was too easy to make it for mobile first.
+
+**Link(s) to work**: _No Link_
