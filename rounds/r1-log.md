@@ -127,3 +127,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Browsers render SVGs differently for some reason.
 
 **Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
+
+---
+
+### Day 14 - June 16, 2020
+
+**Today's Progress**: Continued fixing the issues regarding browser compatiblity of the Huddle landing page.
+
+**Thoughts**: I solved the problem using a flex-basis on the parent div of the SVG image. I think images should always have a parent container that controls their size.
+
+**Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
