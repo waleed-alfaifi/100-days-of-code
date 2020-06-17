@@ -117,3 +117,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Sometimes I use some CSS properties just because they work and not because I fully understand them :smile:.
 
 **Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
+
+---
+
+### Day 13 - June 15, 2020
+
+**Today's Progress**: Fixed some issues regarding browser compatiblity of the Huddle landing page.
+
+**Thoughts**: Browsers render SVGs differently for some reason.
+
+**Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
