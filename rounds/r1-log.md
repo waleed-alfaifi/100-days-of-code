@@ -107,3 +107,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I am really struggling to align the footer's items like the design. Hopefully, I will be able to finish this challenge tomorrow.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 12 - June 14, 2020
+
+**Today's Progress**: Finished the Huddle landing page.
+
+**Thoughts**: Sometimes I use some CSS properties just because they work and not because I fully understand them :smile:.
+
+**Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
