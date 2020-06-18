@@ -147,3 +147,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I am back to React finally :smile:. I will be doing the CSS (layout) part the next weeks (until the end of the 30DayOfCSS challenge) then start with the actual functionalities. Glad to be able to code basic landing pages, though I still need to improve my design skills.
 
 **Link(s) to work**: [URL Shortening App - My Solution](https://github.com/waleed-alfaifi/url-shortening-app)
+
+---
+
+### Day 16 - June 18, 2020
+
+**Today's Progress**: Added the HTML structure of the url-shortening-api landing page.
+
+**Thoughts**: It's helpful to lay out the HTML code first before any CSS. This way, you understand your page styles structure before writing any of them. Not that I don't make changes to the HTML code later on, though.
+
+**Link(s) to work**: [URL Shortening App - Initial HTML and files structure](https://github.com/waleed-alfaifi/url-shortening-app/commit/56911da76386b678f5a6d8ae5f5ff65fb66005d6)
