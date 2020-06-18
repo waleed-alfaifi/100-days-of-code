@@ -137,3 +137,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I solved the problem using a flex-basis on the parent div of the SVG image. I think images should always have a parent container that controls their size.
 
 **Link(s) to work**: [Huddle Landing Page](https://angry-perlman-6f1be4.netlify.app/)
+
+---
+
+### Day 15 - June 17, 2020
+
+**Today's Progress**: Started a new challenge of the frontend mentors challenges called url-shortening-api landing page.
+
+**Thoughts**: I am back to React finally :smile:. I will be doing the CSS (layout) part the next weeks (until the end of the 30DayOfCSS challenge) then start with the actual functionalities. Glad to be able to code basic landing pages, though I still need to improve my design skills.
+
+**Link(s) to work**: [URL Shortening App - My Solution](https://github.com/waleed-alfaifi/url-shortening-app)
