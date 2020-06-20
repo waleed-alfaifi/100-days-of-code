@@ -157,3 +157,13 @@ Started on May, 31st, 2020.
 **Thoughts**: It's helpful to lay out the HTML code first before any CSS. This way, you understand your page styles structure before writing any of them. Not that I don't make changes to the HTML code later on, though.
 
 **Link(s) to work**: [URL Shortening App - Initial HTML and files structure](https://github.com/waleed-alfaifi/url-shortening-app/commit/56911da76386b678f5a6d8ae5f5ff65fb66005d6)
+
+---
+
+### Day 17 - June 19, 2020
+
+**Today's Progress**: Started coding the navbar part of the url-shortening-api landing page.
+
+**Thoughts**: I started with the desktop design this time, as I think it makes more sense. I think the navbar is looking good already but I will probably have to change it later.
+
+**Link(s) to work**: [URL Shortening App - Navbar for desktop](https://github.com/waleed-alfaifi/url-shortening-app/commit/a2a26388cc6c2f83f24782558e727855eb394f72)
