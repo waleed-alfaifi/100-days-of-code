@@ -167,3 +167,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I started with the desktop design this time, as I think it makes more sense. I think the navbar is looking good already but I will probably have to change it later.
 
 **Link(s) to work**: [URL Shortening App - Navbar for desktop](https://github.com/waleed-alfaifi/url-shortening-app/commit/a2a26388cc6c2f83f24782558e727855eb394f72)
+
+---
+
+### Day 18 - June 20, 2020
+
+**Today's Progress**: Now trying to make the showcase section.
+
+**Thoughts**: I am really struggling to get the showcase's image to move to the right of the page. I will try to get it tomorrow.
+
+**Link(s) to work**: _No Link_
