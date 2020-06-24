@@ -177,3 +177,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I am really struggling to get the showcase's image to move to the right of the page. I will try to get it tomorrow.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 19 - June 22, 2020
+
+**Today's Progress**: Still completing the showcase section.
+
+**Thoughts**: The image gets cropped when I try to push it to the right because of the container. This is really frustrating.
+
+**Link(s) to work**: _No Link_
