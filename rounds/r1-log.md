@@ -197,3 +197,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I decided to leave the showcase's image as is. Well, it looks okay anyway :sweat_smile:.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 21 - June 24, 2020
+
+**Today's Progress**: Worked on the shorten it section.
+
+**Thoughts**: Not in my best days but trying to complete the challenge for as long as I can.
+
+**Link(s) to work**: _No Link_
