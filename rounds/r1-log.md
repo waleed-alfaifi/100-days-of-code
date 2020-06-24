@@ -187,3 +187,13 @@ Started on May, 31st, 2020.
 **Thoughts**: The image gets cropped when I try to push it to the right because of the container. This is really frustrating.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 20 - June 23, 2020
+
+**Today's Progress**: Finished the showcase section.
+
+**Thoughts**: I decided to leave the showcase's image as is. Well, it looks okay anyway :sweat_smile:.
+
+**Link(s) to work**: _No Link_
