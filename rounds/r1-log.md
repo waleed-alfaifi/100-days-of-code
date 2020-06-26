@@ -207,3 +207,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Not in my best days but trying to complete the challenge for as long as I can.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 22 - June 25, 2020
+
+**Today's Progress**: Completed the shorten it section.
+
+**Thoughts**: Now I need to work on the shortened urls containers. I will probably have to change the shorten it section a little bit.
+
+**Link(s) to work**: _No Link_
