@@ -228,3 +228,13 @@ Started on May, 31st, 2020.
 **Thoughts**: As I thought, I had to rearrange the markup a little bit to be able to finish the shortened urls section.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 24 - July 1, 2020
+
+**Today's Progress**: Started working on the features section.
+
+**Thoughts**: It is unfortunate that I am skipping some days. But that's because I come back from work too tired to write a single code. I was able to do it today, thankfully.
+
+**Link(s) to work**: _No Link_
