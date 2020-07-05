@@ -218,7 +218,6 @@ Started on May, 31st, 2020.
 
 **Link(s) to work**: _No Link_
 
-
 ---
 
 ### Day 23 - June 28, 2020
@@ -248,3 +247,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I was barely able to complete my 1-hour of coding today. Thankful to my ability to copy designs using pure CSS.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 26 - July 3, 2020
+
+**Today's Progress**: Finished the features section.
+
+**Thoughts**: Woke up early to finish my coding :smile:.
+
+**Link(s) to work**: [Features section initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/f22d0d59f08259952572668289e8abb118ede30b)
