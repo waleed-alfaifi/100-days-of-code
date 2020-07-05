@@ -238,3 +238,13 @@ Started on May, 31st, 2020.
 **Thoughts**: It is unfortunate that I am skipping some days. But that's because I come back from work too tired to write a single code. I was able to do it today, thankfully.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 25 - July 2, 2020
+
+**Today's Progress**: Continued working on the features section.
+
+**Thoughts**: I was barely able to complete my 1-hour of coding today. Thankful to my ability to copy designs using pure CSS.
+
+**Link(s) to work**: _No Link_
