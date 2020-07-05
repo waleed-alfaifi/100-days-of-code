@@ -217,3 +217,14 @@ Started on May, 31st, 2020.
 **Thoughts**: Now I need to work on the shortened urls containers. I will probably have to change the shorten it section a little bit.
 
 **Link(s) to work**: _No Link_
+
+
+---
+
+### Day 23 - June 28, 2020
+
+**Today's Progress**: Finished a static version of the shortened urls containers.
+
+**Thoughts**: As I thought, I had to rearrange the markup a little bit to be able to finish the shortened urls section.
+
+**Link(s) to work**: _No Link_
