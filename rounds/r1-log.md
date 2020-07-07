@@ -267,3 +267,13 @@ Started on May, 31st, 2020.
 **Thoughts**: The CTA section was pretty easy to implement.
 
 **Link(s) to work**: [CTA section initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/c2f42a883033d3cd6068dd6b768949ab6996d07c)
+
+---
+
+### Day 28 - July 6, 2020
+
+**Today's Progress**: Finished the desktop version of the page (worked on the footer today).
+
+**Thoughts**: CSS Grid is such a great tool that I understand very little about. Used it to make my footer and it was just great.
+
+**Link(s) to work**: [Footer (and desktop) initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/922c77bdab39c37f8743107dc0d6bb26a86fc2cf)
