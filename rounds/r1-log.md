@@ -257,3 +257,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Woke up early to finish my coding :smile:.
 
 **Link(s) to work**: [Features section initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/f22d0d59f08259952572668289e8abb118ede30b)
+
+---
+
+### Day 27 - July 5, 2020
+
+**Today's Progress**: Finished an initial version of the CTA section.
+
+**Thoughts**: The CTA section was pretty easy to implement.
+
+**Link(s) to work**: [CTA section initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/c2f42a883033d3cd6068dd6b768949ab6996d07c)
