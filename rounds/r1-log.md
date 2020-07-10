@@ -277,3 +277,14 @@ Started on May, 31st, 2020.
 **Thoughts**: CSS Grid is such a great tool that I understand very little about. Used it to make my footer and it was just great.
 
 **Link(s) to work**: [Footer (and desktop) initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/922c77bdab39c37f8743107dc0d6bb26a86fc2cf)
+
+
+---
+
+### Day 29 - July 7, 2020
+
+**Today's Progress**: Started working on the mobile version of the url shortening app.
+
+**Thoughts**: Not gonna lie, it is frustrating that I have to clean up all of this mess to get the page looking good on mobiles :worried:.
+
+**Link(s) to work**: _No Link_
