@@ -288,3 +288,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Not gonna lie, it is frustrating that I have to clean up all of this mess to get the page looking good on mobiles :worried:.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 30 - July 8, 2020
+
+**Today's Progress**: Got the shorten section looking good on mobiles.
+
+**Thoughts**: I like Sass reusable mixins a lot. They help making the code organized and maintainable. I decided to make only one commit once I finish the complete mobile version.
+
+**Link(s) to work**: _No Link_
