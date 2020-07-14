@@ -308,3 +308,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I worked for two hours today, which means no working tomorrow :sweat_smile:. It is tough to make the page responsive.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 31 - July 13, 2020
+
+**Today's Progress**: Still working on making the website responsive for medium and large screen sizes.
+
+**Thoughts**: I am starting to feel like I need a break from CSS :sweat_smile:. I just want to go back to making some real working applications instead of laying out elements for the whole day.
+
+**Link(s) to work**: _No Link_
