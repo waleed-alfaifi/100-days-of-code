@@ -298,3 +298,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I like Sass reusable mixins a lot. They help making the code organized and maintainable. I decided to make only one commit once I finish the complete mobile version.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 30 - July 10, 2020
+
+**Today's Progress**: Worked on making the website responsive.
+
+**Thoughts**: I worked for two hours today, which means no working tomorrow :sweat_smile:. It is tough to make the page responsive.
+
+**Link(s) to work**: _No Link_
