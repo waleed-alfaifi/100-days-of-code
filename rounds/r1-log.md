@@ -318,3 +318,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I am starting to feel like I need a break from CSS :sweat_smile:. I just want to go back to making some real working applications instead of laying out elements for the whole day.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 32 - July 14, 2020
+
+**Today's Progress**: Finished a semi-complte responsive version of the website.
+
+**Thoughts**: I am left with the hamburger menu and the functionality (with styles) for shortening urls.
+
+**Link(s) to work**: [Semi complte responsive version](https://github.com/waleed-alfaifi/url-shortening-app/commit/2726ab984cdadf60f47207329f27df0edc43cf6e)
