@@ -328,3 +328,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I am left with the hamburger menu and the functionality (with styles) for shortening urls.
 
 **Link(s) to work**: [Semi complte responsive version](https://github.com/waleed-alfaifi/url-shortening-app/commit/2726ab984cdadf60f47207329f27df0edc43cf6e)
+
+---
+
+### Day 33 - July 15, 2020
+
+**Today's Progress**: Started working on the hamburger menu.
+
+**Thoughts**: Fixed positioning is really hard to deal with :worried:. I guess I will edit the menu to be absolutely positioned.
+
+**Link(s) to work**: _No Link_
