@@ -278,7 +278,6 @@ Started on May, 31st, 2020.
 
 **Link(s) to work**: [Footer (and desktop) initial version](https://github.com/waleed-alfaifi/url-shortening-app/commit/922c77bdab39c37f8743107dc0d6bb26a86fc2cf)
 
-
 ---
 
 ### Day 29 - July 7, 2020
@@ -338,3 +337,13 @@ Started on May, 31st, 2020.
 **Thoughts**: Fixed positioning is really hard to deal with :worried:. I guess I will edit the menu to be absolutely positioned.
 
 **Link(s) to work**: _No Link_
+
+---
+
+### Day 34 - July 20, 2020
+
+**Today's Progress**: Finished the hamburger menu.
+
+**Thoughts**: I eventually opted for absoulute positioning as it is much easier to deal with.
+
+**Link(s) to work**: [Basic hamburger menu](https://github.com/waleed-alfaifi/url-shortening-app/commit/5ebe5ab8ff93f58ee59124225820909251338982)
