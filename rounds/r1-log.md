@@ -347,3 +347,13 @@ Started on May, 31st, 2020.
 **Thoughts**: I eventually opted for absoulute positioning as it is much easier to deal with.
 
 **Link(s) to work**: [Basic hamburger menu](https://github.com/waleed-alfaifi/url-shortening-app/commit/5ebe5ab8ff93f58ee59124225820909251338982)
+
+---
+
+### Day 35 - July 28, 2020
+
+**Today's Progress**: Implemented shorten urls + copy to clipboard features.
+
+**Thoughts**: I am happy that I implemented basic validation with only HTML and CSS (no JS validation). Using the browser's default validation, I was able to make a pretty good validation process with styling using CSS pseudo selectors although I am not happy about how browsers validate URLs.
+
+**Link(s) to work**: [Implemented shorten feature with basic validation](https://github.com/waleed-alfaifi/url-shortening-app/commit/b244bdeec421b5f9cece29b9186191f8ffc656f2)
